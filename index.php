@@ -1,7 +1,7 @@
 <?php
 
 // change the following paths if necessary
-$yii='E:\Frameworks\Yii\1.1.0\framework\yii.php';
+$yii='D:\Frameworks\Yii\1.1.0\framework\yii.php';
 $config=dirname(__FILE__).'/protected/config/main.php';
 
 // remove the following line when in production mode
